@@ -1,6 +1,6 @@
 # Credits
 
-Collaboratively built with my lovely team @yaypilled, @thenewgoat, Jesselyn and Jade as part of NTU Deep Learning Week 2025
+Collaboratively built with my lovely team @yaypilled, @thenewgoat, Jesselyn and Jade as part of NTU Deep Learning Week 2025 <3
 
 # GraphMentor
 
