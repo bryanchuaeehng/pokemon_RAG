@@ -1,3 +1,7 @@
+# Credits
+
+Collaboratively built with my lovely team @yaypilled, @thenewgoat, Jesselyn and Jade as part of NTU Deep Learning Week 2025
+
 # GraphMentor
 
 GraphMentor transforms lecture PDFs into structured, dependency-aware knowledge graphs. Upload your course materials, and the system extracts a hierarchical topic outline, infers relationships between concepts, enriches thin topics with external knowledge, and presents everything in an interactive graph editor.
